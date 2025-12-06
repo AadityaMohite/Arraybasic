@@ -1,4 +1,4 @@
-package LogicBuilding;
+
 import java.util.*;
 public class ArrayEvensumoddsum {
     public static void main(String[] args) {
